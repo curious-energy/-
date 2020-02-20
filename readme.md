@@ -12,7 +12,7 @@
     - [学习](#学习)
     - [研究](#研究)
     - [探索](#探索)
-    - [自我](#自我)
+    - [个人](#个人)
 - [参考索引](#参考索引)
 
 <!-- /TOC -->
@@ -36,18 +36,30 @@ etc.
 
 # 时间线
 [2020.02.20] 整个博客系统完成体系搭建.
+[2020.02.20] 导入旧博客文件.
 
 # 记录
 
 ## 学习
 
+- 纪念首次博客上传，[MarkDeep-go](https://curious-energy.github.io/markdeep-go.md.html)
+
+
 ## 研究
+
+- 1
 
 ## 探索
 
-## 自我
+- [MarkDeep参考手册](https://curious-energy.github.io/Markdeep说明书.html)
+
+## 个人
+
+- 3
+
 
 # 参考索引
+
 [1] [Markdeep官网](https://casual-effects.com/markdeep/)
 
 [2] [教你如何直接在github上预览html网页效果](https://blog.csdn.net/qq_25479327/article/details/78778282)
