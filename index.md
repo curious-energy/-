@@ -23,6 +23,8 @@ QQ：834857012@qq.com
 - [MarkDeep说明书](https://curious-energy.github.io/Markdeep说明书.html)
 - [示例文档](https://curious-energy.github.io/markdeep-go.md.html)
 - [建站心得分享](https://curious-energy.github.io/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/%E5%88%A9%E7%94%A8MarkDeep%E5%BB%BA%E7%AB%99.html)
+- [W.S.网站名的来源](https://curious-energy.github.io/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/8D%9A%E5%AE%A2%E5%90%8D%E7%9A%84%E6%9D%A5%E6%BA%90.html)
+- [批处理博客上传](https://curious-energy.github.io/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8%E5%88%86%E4%BA%AB/bat-cmd.html)
 
 
 科研阅读与思路交流
@@ -54,8 +56,8 @@ QQ：834857012@qq.com
 ============================================================== 
 
 - [x] 将网站的分项目简介写好。
-- [ ] 至少保证一个月一篇的博客发表。
-- [ ] 将此次的建站心得保留下来。
+- [x] 至少保证一个月一篇的博客发表。
+- [x] 将此次的建站心得保留下来。
 
 
 

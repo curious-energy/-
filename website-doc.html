@@ -1,0 +1,39 @@
+   <meta charset="utf-8" emacsmode="-*- markdown -*-"> <link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/journal.css?">
+
+                        **建站心得分享**
+                           2020.02.21
+
+
+
+此篇文章分享下建设网站的历程。[博客主页](https://curious-energy.github.io)
+
+
+开始
+=================================================================
+
+
+
+
+支持代码嵌入
+---------------------------------------------------------------
+
+子标题
+
+
+
+详述
+==============================================================
+
+示例
+
+
+
+最后，确实很好用
+==============================================================
+
+示例
+
+
+ 
+<style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'long'};</script>
+<!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>

@@ -1,0 +1,24 @@
+﻿
+**利用批处理语句来上传博客**
+
+其实语句很简单，直接利用批处理命令配合git语句很方便就成功了，避免了每次上传的重复命令输入。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+cd /d D:\aDOCs\Blog Soures
+git status
+pause
+git add .
+pause
+set /p sth=input something:
+echo sth:%sth%
+echo please wait
+git commit -m "%sth%"
+pause
+git push origin master
+pause
+exit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
